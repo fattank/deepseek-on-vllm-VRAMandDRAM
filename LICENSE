@@ -2,6 +2,13 @@
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
+Requirements from open sourcers
+The following uses of this software are prohibited:
+- Direct or indirect commercial services (such as API charges, selling model weights, public cloud).
+- Integration into commercial products.
+- Private cloud deployment services for overall sales.
+
+
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
